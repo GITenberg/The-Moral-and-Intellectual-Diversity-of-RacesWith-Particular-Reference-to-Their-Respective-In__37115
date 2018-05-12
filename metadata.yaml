@@ -29,6 +29,8 @@ creator:
     gutenberg_agent_id: '38659'
     url: http://www.gutenberg.org/2009/agents/38659
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37115#The-Moral-and-Intellectual-Diversity-of-RacesWith-Particular-Reference-to-Their-Respective-In_
 gutenberg_issued: '2011-08-17'
 gutenberg_type: Text
 identifiers:
